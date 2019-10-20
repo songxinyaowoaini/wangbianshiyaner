@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-size: 16px;color: white;
+}
+h1{
+	text-align: center;
+	font-family: 方正姚体，黑体，宋体;
+	font-size: 20px;
+	font-weight:bold;
+		color: ;
+}
+h2{
+	font-family: 黑体;font-size: 16px;font-weight: normal;color: #099;}
+p{line-height: 20px;}
+#nav{background-color:#FF6;
+	margin-left:15%;
+	margin-right:15%;
+	font-size:18px;}
+
+.copyright{
+	text-align: center;margin-bottom: 10px;
+}
+#wrapper{
+	margin:10px auto;
+	width:20px;
+	height:20px;
+	border:1px solid none;}
+.tri{width:0px;
+     height:0px;
+	 margin:0px;
+	 border:10px solid #9F0;
+	 border-bottom:none;
+	 border-left-color:transparent;
+	 border-right-color:transparent;
+	}
+	li{height: 30px;line-height: 30px;list-style-image: url("images/tom.jpg");color: #122E67;border-bottom: 1px dotted #DDD}
